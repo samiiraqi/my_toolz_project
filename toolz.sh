@@ -1,4 +1,12 @@
 #!/bin/bash
+
+
+
+
+
+# Toolz Script: A multi-functional utility script
+
+# Define color codes for better readability
 RED="\033[3;31m"
 GREEN="\033[3;32m"
 YELLOW="\033[3;33m"
@@ -11,17 +19,6 @@ echo -e "${BlUE}Author:${YELLOW}Iraqi Sami${NC}"
 echo -e "${BLUE}Course:${YELLOW}BIU DevSecOps 19${NC}"
 echo -e "${BLUE}Lecturer:${YELLOW}Yuval Shaul${NC}"
 echo -e "${BLUE}Date:${YELLOW}06/05/2025${NC}"
-
-
-
-# Toolz Script: A multi-functional utility script
-
-# Define color codes for better readability
-RED="\033[3;31m"
-GREEN="\033[3;32m"
-YELLOW="\033[3;33m"
-BLUE="\033[3;34m"
-NC="\033[0m" # No Color
 
 # Load persistent configuration options
 CONFIG_FILE="$HOME/.toolz_config"
