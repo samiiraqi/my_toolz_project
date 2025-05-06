@@ -1,5 +1,11 @@
 #!/bin/bash
 
+echo -e "\e[1;34m Bash Scripting Project\e[0m"
+echo -e "\e[1;33m Description : This project will help you practice bash scripting fundamentals,command-line parameter handling,and system administration tasks.\e[0m"
+echo -e "\e[1;34m Author : Iraqi Sami\e[0m"
+echo -e "\e[1;33m Course : BIU DevSecOps 19\e[0m"
+echo -e "\e[1;34m Lecturer : Yuval Shaul\e[0m"
+echo -e "\e[1;33m Date : 06/05/2025\e[0m"
 # Toolz Script: A multi-functional utility script
 
 # Define color codes for better readability
