@@ -1,11 +1,11 @@
 #!/bin/bash
 
-echo -e "${Blue}Bash scripting Project${NC}"
-echo -e "${Blue}Description:${YELLOW}Multi system admin tools${NC}"
-echo -e "${Blue}Author:${YELLOW}Iraqi Sami${NC}"
-echo -e "${Blue}Course:${YELLOW}BIU DevSecOps 19${NC}"
-echo -e "${Blue}Lecturer:${YELLOW}Yuval Shaul${NC}"
-echo -e "${Blue}Date:${YELLOW}06/05/2025${NC}"
+echo -e "${BLUE}Bash scripting Project${NC}"
+echo -e "${BLUE}Description:${YELLOW}Multi system admin tools${NC}"
+echo -e "${BlUE}Author:${YELLOW}Iraqi Sami${NC}"
+echo -e "${BLUE}Course:${YELLOW}BIU DevSecOps 19${NC}"
+echo -e "${BLUE}Lecturer:${YELLOW}Yuval Shaul${NC}"
+echo -e "${BLUE}Date:${YELLOW}06/05/2025${NC}"
 
 
 
