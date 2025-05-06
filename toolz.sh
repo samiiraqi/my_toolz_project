@@ -1,4 +1,9 @@
 #!/bin/bash
+RED="\033[3;31m"
+GREEN="\033[3;32m"
+YELLOW="\033[3;33m"
+BLUE="\033[3;34m"
+NC="\033[0m" # No Color
 
 echo -e "${BLUE}Bash scripting Project${NC}"
 echo -e "${BLUE}Description:${YELLOW}Multi system admin tools${NC}"
